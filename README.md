@@ -8,7 +8,9 @@ I build web apps from the database up with **React, Express, PostgreSQL and Pris
 
 I like apps where the server makes the decisions, the data is easy to reason about, and the README lets someone else run the project in five minutes.
 
-I look at code as tool to solve real-world problems and push the human race forward as we try to master our universe. When im not writing code or meditating about problems to solve, i read books, i explore the universe.
+I see code as a tool for solving real-world problems and pushing humanity forward as we try to understand our universe. When I'm not writing code or thinking through problems to solve, I read books and explore the universe.
+
+AI has made writing code fast, but if you can't read and understand that code, you stay dependent on it. Anyone who has vibe-coded a full-stack app knows an AI's memory can't be relied on. I'm an under-the-hood programmer: code-literate, focused on scalable architecture, and a good old manual coder who still gets a hit when the code runs.
 
 - 🌐 **Portfolio:** [sifisowmoyo.com](https://sifisowmoyo.com)
 - 💼 **LinkedIn:** [sifiso-moyo](https://www.linkedin.com/in/sifiso-moyo-930b43221)
